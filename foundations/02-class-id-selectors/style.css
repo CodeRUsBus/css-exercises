@@ -1,0 +1,19 @@
+.sharedClass  {
+    background-color: rgb(255, 130, 147);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#numberTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.separateClass {
+    font-size: 24px;
+}
+
+#numberFour {
+    background-color: rgb(118, 255, 125);
+    font-size: 24px;
+    font-weight: bold;
+}
